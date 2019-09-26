@@ -1,0 +1,119 @@
+body{
+	background-color: #3F4122;
+
+}
+h1{
+	text-align:center;
+	font-family:'PT Serif', Serif;
+	font-size:60px;
+	margin-left:15%;
+	margin-right:15%;
+	padding:30px;
+	background-color:#ffffff;
+	border-width: 5px;
+	border-radius:30px;
+	border-style:solid;
+}
+p{
+	text-align:center;
+	font-size:45px;
+	padding: 35px;
+	border-width:5px;
+	border-radius: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+
+	border-style: solid;
+	color: #ffffff;
+	background-color:#855138;
+}
+
+p:hover{
+	background-color:#827f76;
+}
+ul {
+  list-style-type: none;
+  margin: 50px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+  
+}
+
+li {
+  float: left;
+  margin-left: 9%;
+  font-size: 20px;
+  
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #333;
+
+}
+img{
+	
+	border-style: solid;
+	border-width: 5px;
+}
+table{
+	table-layout: fixed;
+	width: 100%;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+h2{
+	color:#ba061b;
+	font-size: 16px;
+	
+
+
+}
+#Crossbow:hover{
+	opacity: .5;
+}
+#Compound:hover{
+	opacity: .5;
+}
+#RIFLE:hover{
+	opacity: .5;
+}
+#page{
+	margin-left: 90%;
+	color:#ffffff;
+}
+#cart{
+	border-style: none;
+	margin-left: 90%;
+	margin-top: 5%;
+}
+#cart:hover{
+	opacity:.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
